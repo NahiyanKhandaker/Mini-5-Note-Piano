@@ -18,7 +18,7 @@
 | [Through-Hole Resistors 220Ω — 25 pack](https://thepihut.com/products/through-hole-resistors-220-ohm-5-1-4w-pack-of-25) | Tops up resistors to match the extra LEDs | 1 | $1.02 | $1.02 | [The Pi Hut](https://thepihut.com/products/through-hole-resistors-220-ohm-5-1-4w-pack-of-25) |
 | [5V Buzzer - Breadboard friendly](https://thepihut.com/products/buzzer-5v-breadboard-friendly) | Sound output | 1 | $1.02 | $1.02 | [The Pi Hut](https://thepihut.com/products/buzzer-5v-breadboard-friendly) |
 | **Parts subtotal** | — | — | — | **$19.44** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$19.44** | — |
+| **Tax & shipping** | — | — | — | **$4.83** | — |
+| **Total** | — | — | — | **$24.27** | — |
 
-$10.56 left of the tier's funding.
+$5.73 left of the tier's funding.
